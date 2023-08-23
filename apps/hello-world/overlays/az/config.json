@@ -1,0 +1,11 @@
+{
+  "appName": "hello-world",
+  "userGivenName": "hello-world",
+  "destNamespace": "default",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/hello-world/overlays/az",
+  "srcRepoURL": "https://github.com/Artem-Zahumonnyi/argocd-auopilot.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null
+}
