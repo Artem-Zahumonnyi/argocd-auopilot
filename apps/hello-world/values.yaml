@@ -1,1 +1,3 @@
-name: az-az-codebase-operator
+image:
+  repository: epamedp/edp-headlamp
+  tag: 22323123
